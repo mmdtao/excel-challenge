@@ -29,7 +29,7 @@ As shown in the "Outcomes Based on Goals" graph below, the most successful goals
 
 - What are some limitations of this dataset?
 
-From the descriptive statistics, there are a fair amount of outliers suggesting that this is not a normally distributed dataset. Since the mean is greater than the median for both "successful" and "failed" campaigns, it suggests that to have a more successful campaign you would need to have a larger amount of backers than in reality. 
+From the descriptive statistics, there are a fair amount of outliers suggesting that this is not a normally distributed dataset. Since the mean is greater than the median for both "successful" and "failed" campaigns, it suggests that to have a more successful campaign you would need to have a larger amount of backers than in reality. The summary statitics also showed there was much more variance in "successful" campaigns which makes sense as "failed" campaigns have no lower limit while a "successful campaign" technically has no upper limit.
 <img width="859" alt="Outcomes Whiskerplot" src="https://user-images.githubusercontent.com/114324871/227413344-ac8e4ffa-e87b-4e36-a008-92827a3a5eea.png">
 
 - What are some other possible tables and/or graphs that we could create?
